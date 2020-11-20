@@ -14,7 +14,7 @@ Clear the puzzles by pushing off the red cubes from the platforms/out of the box
 
 The game was created in Unity 2020.2, but has been converted back to 2019.3.
 The game uses custom made collision using the GJK algorithm and generates contacts with the EPA algorithm.
-The game uses a physics simulation through a dynamics system which has 4 steps. (This can be found in DynamicsSystem.cs)
+The game uses a physics simulation through a dynamics system (This can be found in DynamicsSystem.cs) which has 4 steps: 
 
 1. Apply gravity.
 
