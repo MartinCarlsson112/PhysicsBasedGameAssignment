@@ -3,7 +3,7 @@
 
 This is my PhysicsBasedGameAssignment.
 The objective of the game is to solve physics "puzzles".
-There might be performance issues, I can provide a video representation if necessary.
+There might be performance issues.
 
 Controls: 
 WASD for movement.
